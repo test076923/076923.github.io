@@ -6,7 +6,12 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: YUN DAE HEE 3
+title: "YUN DAE HEE"
+
+author:
+  head_img: 'rails.jpg'
+
+
 
 email: 076923@naver.com
 description: > # this means to ignore newlines until "baseurl:"
