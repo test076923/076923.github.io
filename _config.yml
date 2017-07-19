@@ -7,14 +7,6 @@
 
 # Site settings
 title: YUN DAE HEE
-name: DAE HEE
-defaults:
-  -
-    scope:
-      path: "" # empty string for all files
-    values:
-      title: 대희
-
 email: 076923@naver.com
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
