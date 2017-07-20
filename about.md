@@ -1,19 +1,17 @@
 ---
-bg: "owl.jpg"
+bg: "star.gif"
 layout: page
 title: "About"
-crawlertitle: "Why and how this blog was created"
+crawlertitle: "076923 : About"
 permalink: /about/
-summary: "About this blog"
+summary: "Why and how this blog was created."
 active: about
+date: 7/20/2017 3:37:34 PM 
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+# About #
+----------
 
-You can find the source code for the Jekyll new theme at:
-{{site.twitter_username}} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+연구, 개발 등에 필요한 정보를 공유하고 나누기 위한 목적으로 개설되었습니다.
 
-You can find the source code for Jekyll at
-{{site.github_username}} /
-[jekyll](https://github.com/jekyll/jekyll)
+기초적인 부분과 심화적인 부분을 다루며 프로그래밍의 이해와 공부에 도움이 되길 바랍니다.
