@@ -3,7 +3,7 @@ bg: "owl.jpg"
 layout: page
 title: "test"
 crawlertitle: "test"
-permalink: /new/
+permalink: /test/
 summary: "About this test"
 active: test
 ---
