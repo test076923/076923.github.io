@@ -3,7 +3,7 @@ bg: "tag.jpg"
 layout: page
 permalink: /posts/
 title: "Category"
-crawlertitle: "All Category"
+crawlertitle: "076923 : Category"
 summary: "Posts about Category"
 active: Category
 ---
