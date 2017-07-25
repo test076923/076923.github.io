@@ -5,9 +5,21 @@
     
 
     <url>
-        <loc>https://076923.github.io/index.html</loc>
+        <loc>https://076923.github.io/</loc>
     </url>
-   
+    
+    <url>
+        <loc>https://076923.github.io/index/</loc>
+    </url>
+
+    <url>
+        <loc>https://076923.github.io/about/</loc>
+    </url>
+    
+    <url>
+        <loc>https://076923.github.io/posts/</loc>
+    </url>
+    
     <url>
         <loc>https://076923.github.io/posts/C-1/</loc>
     </url>
