@@ -19,12 +19,10 @@ active: Category
       {% if post.tags contains t %}
         <li>
           {% if post.lastmod %}
-            <a href="{{ post.url }}">{{ post.title }}  <a href="https://076923.github.io{{ post.url }}#disqus_thread">0 Comments</a>
- </a>
+            <a href="{{ post.url }}">{{ post.title }}</a> - <a href="https://076923.github.io{{ post.url }}#disqus_thread" data-disqus-identifier="{{ page.id }}">0 Comments</a>
             <span class="date">{{ post.lastmod | date: "%Y-%m-%d"  }}</span>
           {% else %}
-            <a href="{{ post.url }}">{{ post.title }}  <a href="https://076923.github.io{{ post.url }}#disqus_thread">0 Comments</a>
-</a>
+            <a href="{{ post.url }}">{{ post.title }} </a> - <a href="https://076923.github.io{{ post.url }}#disqus_thread" data-disqus-identifier="{{ page.id }}">0 Comments</a>
             <span class="date">{{ post.date | date: "%Y-%m-%d"  }}</span>
           {% endif %}
         </li>
