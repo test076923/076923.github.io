@@ -8,8 +8,8 @@ summary: "C#, python, arduino, opencv, CAD, etc"
 
 {% for post in site.posts limit: 5 %}
   <article class="index-page">
-    <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-     <span class="date">{{ post.date | date: "%Y-%m-%d"  }}</span>
+    <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>  {{ post.date | date: "%Y-%m-%d"  }}
+     
     {{ post.excerpt }}
   </article>
 {% endfor %}
