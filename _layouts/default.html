@@ -7,6 +7,8 @@ layout: compress
   {% include head.html %}
 
   <body>
+    <script id="dsq-count-scr" src="//{{ site.disqus }}.disqus.com/count.js" async></script>
+    
     <div id="shadow"></div>
 
       {% include header.html %}
@@ -15,7 +17,7 @@ layout: compress
     <main class="content-wrapper">
       {{ content }}
     </main>
-    <script id="dsq-count-scr" src="//{{ site.disqus }}.disqus.com/count.js" async></script>
+
     {% include footer.html %}
 
   </body>
