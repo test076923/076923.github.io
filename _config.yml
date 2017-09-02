@@ -12,6 +12,7 @@ author:
   head_img: 'rails.jpg'
 
 avatar: 'logo.png'
+favicon: 'favicon.ico'
 
 email: 076923@naver.com
 description: > # this means to ignore newlines until "baseurl:"
