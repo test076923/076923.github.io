@@ -11,7 +11,7 @@ title: "YUN DAE HEE"
 author:
   head_img: 'rails.jpg'
 
-
+avatar: 'logo.png'
 
 email: 076923@naver.com
 description: > # this means to ignore newlines until "baseurl:"
@@ -33,7 +33,7 @@ permalink: /:categories/:title/
 future: true
 safe: false
 lsi: false
-disqus: 
+disqus: https-076923-github-io
 excerpt_separator: "\n\n"
 
 # Theme settings
@@ -50,4 +50,3 @@ sass:
 
 images: '/assets/images'
 
-disqus: https-076923-github-io
