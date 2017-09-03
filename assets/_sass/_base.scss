@@ -13,7 +13,7 @@
 
 
 body {
-  font: normal 17px/1.5 'PT Serif', "Helvetica Neue", "Helvetica", Arial, sans-serif;
+  font: normal 17px/1.5 'PT Serif', "Helvetica Neue", "Helvetica", Arial, "맑은 고딕", sans-serif;
   width: 100%;
   height: 100%;
   background: #fdfdfd;
@@ -95,7 +95,7 @@ pre {
 
 code,
 pre {
-  font-family: "Menlo", 'Andale Mono', 'Consolas', monospace;
+  font-family: "Menlo", 'Andale Mono', 'Consolas',"맑은 고딕", monospace;
   font-size: .9em;
   line-height: 1.3;
   background-color: #eef; /*color*/
