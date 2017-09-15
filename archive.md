@@ -7,7 +7,6 @@ crawlertitle: "076923 : Category"
 summary: "Posts about Category"
 active: Category
 ---
-
 {% for tag in site.tags %}
   {% assign t = tag | first %}
   {% assign posts = tag | last %}
@@ -39,6 +38,4 @@ active: Category
       {% endif %}
     {% endfor %}
   </ul>
-
 {% endfor %}
-
