@@ -8,116 +8,128 @@
 
 <url>
    <loc>https://076923.github.io/</loc>
-   <lastmod>2017-09-03T16:23:59+00:00</lastmod>
-   <changefreq>always</changefreq>
+   <lastmod>2017-09-16T17:18:45+00:00</lastmod>
+   <changefreq>monthly</changefreq>
    <priority>1.0000</priority>
 </url>
 <url>
    <loc>https://076923.github.io/feed.xml</loc>
-   <lastmod>2017-09-03T16:29:01+00:00</lastmod>
-   <changefreq>always</changefreq>
+   <lastmod>2017-09-16T17:18:44+00:00</lastmod>
+   <changefreq>monthly</changefreq>
    <priority>0.8000</priority>
 </url>
 <url>
    <loc>https://076923.github.io/about/</loc>
-   <lastmod>2017-09-03T16:23:59+00:00</lastmod>
-   <changefreq>always</changefreq>
+   <lastmod>2017-09-16T17:18:45+00:00</lastmod>
+   <changefreq>monthly</changefreq>
    <priority>0.8000</priority>
 </url>
 <url>
    <loc>https://076923.github.io/posts/</loc>
-   <lastmod>2017-09-03T16:23:59+00:00</lastmod>
-   <changefreq>always</changefreq>
+   <lastmod>2017-09-16T17:18:45+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.8000</priority>
+</url>
+<url>
+   <loc>https://076923.github.io/exercise/</loc>
+   <lastmod>2017-09-16T17:18:45+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.8000</priority>
+</url>
+<url>
+   <loc>https://076923.github.io/exercise/C-inputbox/</loc>
+   <lastmod>2017-09-16T17:18:45+00:00</lastmod>
+   <changefreq>monthly</changefreq>
    <priority>0.8000</priority>
 </url>
 <url>
    <loc>https://076923.github.io/posts/C-15/</loc>
-   <lastmod>2017-09-03T16:23:59+00:00</lastmod>
-   <changefreq>always</changefreq>
+   <lastmod>2017-09-16T17:18:45+00:00</lastmod>
+   <changefreq>monthly</changefreq>
    <priority>0.8000</priority>
 </url>
 <url>
    <loc>https://076923.github.io/posts/C-14/</loc>
-   <lastmod>2017-09-03T16:23:59+00:00</lastmod>
-   <changefreq>always</changefreq>
+   <lastmod>2017-09-16T17:18:45+00:00</lastmod>
+   <changefreq>monthly</changefreq>
    <priority>0.8000</priority>
 </url>
 <url>
    <loc>https://076923.github.io/posts/C-13/</loc>
-   <lastmod>2017-09-03T16:23:59+00:00</lastmod>
-   <changefreq>always</changefreq>
+   <lastmod>2017-09-16T17:18:45+00:00</lastmod>
+   <changefreq>monthly</changefreq>
    <priority>0.8000</priority>
 </url>
 <url>
    <loc>https://076923.github.io/posts/C-12/</loc>
-   <lastmod>2017-09-03T16:23:59+00:00</lastmod>
-   <changefreq>always</changefreq>
+   <lastmod>2017-09-16T17:18:45+00:00</lastmod>
+   <changefreq>monthly</changefreq>
    <priority>0.8000</priority>
 </url>
 <url>
    <loc>https://076923.github.io/posts/C-11/</loc>
-   <lastmod>2017-09-03T16:23:59+00:00</lastmod>
-   <changefreq>always</changefreq>
-   <priority>0.8000</priority>
+   <lastmod>2017-09-16T17:18:45+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.6400</priority>
 </url>
 <url>
    <loc>https://076923.github.io/posts/C-10/</loc>
-   <lastmod>2017-09-03T16:23:59+00:00</lastmod>
-   <changefreq>always</changefreq>
-   <priority>0.8000</priority>
+   <lastmod>2017-09-16T17:18:45+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.6400</priority>
 </url>
 <url>
    <loc>https://076923.github.io/posts/C-9/</loc>
-   <lastmod>2017-09-03T16:23:59+00:00</lastmod>
-   <changefreq>always</changefreq>
-   <priority>0.8000</priority>
+   <lastmod>2017-09-16T17:18:45+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.6400</priority>
 </url>
 <url>
    <loc>https://076923.github.io/posts/C-8/</loc>
-   <lastmod>2017-09-03T16:23:59+00:00</lastmod>
-   <changefreq>always</changefreq>
-   <priority>0.8000</priority>
+   <lastmod>2017-09-16T17:18:45+00:00</lastmod>
+   <changefreq>monthly</changefreq>
+   <priority>0.6400</priority>
 </url>
 <url>
    <loc>https://076923.github.io/posts/C-7/</loc>
-   <lastmod>2017-09-03T16:23:59+00:00</lastmod>
-   <changefreq>always</changefreq>
+   <lastmod>2017-09-16T17:18:45+00:00</lastmod>
+   <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
    <loc>https://076923.github.io/posts/C-6/</loc>
-   <lastmod>2017-09-03T16:23:59+00:00</lastmod>
-   <changefreq>always</changefreq>
+   <lastmod>2017-09-16T17:18:45+00:00</lastmod>
+   <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
    <loc>https://076923.github.io/posts/C-5/</loc>
-   <lastmod>2017-09-03T16:23:59+00:00</lastmod>
-   <changefreq>always</changefreq>
+   <lastmod>2017-09-16T17:18:45+00:00</lastmod>
+   <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
    <loc>https://076923.github.io/posts/C-4/</loc>
-   <lastmod>2017-09-03T16:23:59+00:00</lastmod>
-   <changefreq>always</changefreq>
+   <lastmod>2017-09-16T17:18:45+00:00</lastmod>
+   <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
    <loc>https://076923.github.io/posts/C-3/</loc>
-   <lastmod>2017-09-03T16:23:59+00:00</lastmod>
-   <changefreq>always</changefreq>
+   <lastmod>2017-09-16T17:18:45+00:00</lastmod>
+   <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
    <loc>https://076923.github.io/posts/C-2/</loc>
-   <lastmod>2017-09-03T16:23:59+00:00</lastmod>
-   <changefreq>always</changefreq>
+   <lastmod>2017-09-16T17:18:45+00:00</lastmod>
+   <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 <url>
    <loc>https://076923.github.io/posts/C-1/</loc>
-   <lastmod>2017-09-03T16:23:59+00:00</lastmod>
-   <changefreq>always</changefreq>
+   <lastmod>2017-09-16T17:18:45+00:00</lastmod>
+   <changefreq>monthly</changefreq>
    <priority>0.6400</priority>
 </url>
 </urlset>
