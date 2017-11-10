@@ -36,6 +36,12 @@
   <meta name="twitter:title" content="{{ page.title }}">
   <meta name="twitter:description" content="{{ page.summary }}">
 
+  
+  
+  {% include adsense.html %}
+  
+  
+  
   {% if page.bg %}
     <meta property="og:image" content="{{ site.url }}{{ site.images }}/{{ page.bg }}">
     <meta name="twitter:image" content="{{ site.url }}{{ site.images }}/{{ page.bg }}">
@@ -45,5 +51,5 @@
   {% endif %}
   
 
-
+  
 </head>
