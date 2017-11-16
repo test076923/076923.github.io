@@ -8,302 +8,320 @@
 
 <url>
    <loc>https://076923.github.io/</loc>
-   <lastmod>2017-11-09T05:17:38+00:00</lastmod>
+   <lastmod>2017-11-16T04:31:17+00:00</lastmod>
    <changefreq>always</changefreq>
-   <priority>1.0</priority>
+   <priority>1.0000</priority>
 </url>
 <url>
    <loc>https://076923.github.io/feed.xml</loc>
-   <lastmod>2017-11-09T14:36:40+00:00</lastmod>
+   <lastmod>2017-11-16T15:15:10+00:00</lastmod>
    <changefreq>always</changefreq>
-   <priority>1.0</priority>
+   <priority>0.8000</priority>
 </url>
 <url>
    <loc>https://076923.github.io/about/</loc>
-   <lastmod>2017-11-09T05:17:38+00:00</lastmod>
+   <lastmod>2017-11-16T04:31:17+00:00</lastmod>
    <changefreq>always</changefreq>
-   <priority>1.0</priority>
+   <priority>0.8000</priority>
 </url>
 <url>
    <loc>https://076923.github.io/posts/</loc>
-   <lastmod>2017-11-09T05:17:38+00:00</lastmod>
+   <lastmod>2017-11-16T04:31:17+00:00</lastmod>
    <changefreq>always</changefreq>
-   <priority>1.0</priority>
+   <priority>0.8000</priority>
 </url>
 <url>
    <loc>https://076923.github.io/exercise/</loc>
-   <lastmod>2017-11-09T05:17:38+00:00</lastmod>
+   <lastmod>2017-11-16T04:31:17+00:00</lastmod>
    <changefreq>always</changefreq>
-   <priority>1.0</priority>
+   <priority>0.8000</priority>
+</url>
+<url>
+   <loc>https://076923.github.io/posts/C-opencv-24/</loc>
+   <lastmod>2017-11-16T04:31:17+00:00</lastmod>
+   <changefreq>always</changefreq>
+   <priority>0.8000</priority>
+</url>
+<url>
+   <loc>https://076923.github.io/posts/C-opencv-23/</loc>
+   <lastmod>2017-11-16T04:31:17+00:00</lastmod>
+   <changefreq>always</changefreq>
+   <priority>0.8000</priority>
+</url>
+<url>
+   <loc>https://076923.github.io/posts/C-opencv-22/</loc>
+   <lastmod>2017-11-16T04:31:17+00:00</lastmod>
+   <changefreq>always</changefreq>
+   <priority>0.8000</priority>
 </url>
 <url>
    <loc>https://076923.github.io/posts/C-opencv-21/</loc>
-   <lastmod>2017-11-09T05:17:38+00:00</lastmod>
+   <lastmod>2017-11-16T04:31:17+00:00</lastmod>
    <changefreq>always</changefreq>
-   <priority>1.0</priority>
+   <priority>0.8000</priority>
 </url>
 <url>
    <loc>https://076923.github.io/posts/C-opencv-20/</loc>
-   <lastmod>2017-11-09T05:17:38+00:00</lastmod>
+   <lastmod>2017-11-16T04:31:17+00:00</lastmod>
    <changefreq>always</changefreq>
-   <priority>1.0</priority>
-</url>
-<url>
-   <loc>https://076923.github.io/posts/C-opencv-19/</loc>
-   <lastmod>2017-11-09T05:17:38+00:00</lastmod>
-   <changefreq>always</changefreq>
-   <priority>1.0</priority>
-</url>
-<url>
-   <loc>https://076923.github.io/posts/C-opencv-18/</loc>
-   <lastmod>2017-11-09T05:17:38+00:00</lastmod>
-   <changefreq>always</changefreq>
-   <priority>1.0</priority>
-</url>
-<url>
-   <loc>https://076923.github.io/posts/C-opencv-17/</loc>
-   <lastmod>2017-11-09T05:17:38+00:00</lastmod>
-   <changefreq>always</changefreq>
-   <priority>1.0</priority>
+   <priority>0.8000</priority>
 </url>
 <url>
    <loc>https://076923.github.io/posts/C-23/</loc>
-   <lastmod>2017-11-09T05:17:38+00:00</lastmod>
+   <lastmod>2017-11-16T04:31:17+00:00</lastmod>
    <changefreq>always</changefreq>
-   <priority>1.0</priority>
+   <priority>0.6400</priority>
 </url>
 <url>
    <loc>https://076923.github.io/posts/C-22/</loc>
-   <lastmod>2017-11-09T05:17:38+00:00</lastmod>
+   <lastmod>2017-11-16T04:31:17+00:00</lastmod>
    <changefreq>always</changefreq>
-   <priority>1.0</priority>
+   <priority>0.6400</priority>
 </url>
 <url>
    <loc>https://076923.github.io/posts/C-21/</loc>
-   <lastmod>2017-11-09T05:17:38+00:00</lastmod>
+   <lastmod>2017-11-16T04:31:17+00:00</lastmod>
    <changefreq>always</changefreq>
-   <priority>1.0</priority>
+   <priority>0.6400</priority>
 </url>
 <url>
    <loc>https://076923.github.io/posts/C-20/</loc>
-   <lastmod>2017-11-09T05:17:38+00:00</lastmod>
+   <lastmod>2017-11-16T04:31:17+00:00</lastmod>
    <changefreq>always</changefreq>
-   <priority>1.0</priority>
+   <priority>0.6400</priority>
 </url>
 <url>
    <loc>https://076923.github.io/posts/C-19/</loc>
-   <lastmod>2017-11-09T05:17:38+00:00</lastmod>
+   <lastmod>2017-11-16T04:31:17+00:00</lastmod>
    <changefreq>always</changefreq>
-   <priority>1.0</priority>
+   <priority>0.6400</priority>
 </url>
 <url>
    <loc>https://076923.github.io/posts/C-18/</loc>
-   <lastmod>2017-11-09T05:17:38+00:00</lastmod>
+   <lastmod>2017-11-16T04:31:17+00:00</lastmod>
    <changefreq>always</changefreq>
-   <priority>1.0</priority>
+   <priority>0.6400</priority>
 </url>
 <url>
    <loc>https://076923.github.io/posts/C-17/</loc>
-   <lastmod>2017-11-09T05:17:38+00:00</lastmod>
+   <lastmod>2017-11-16T04:31:17+00:00</lastmod>
    <changefreq>always</changefreq>
-   <priority>1.0</priority>
+   <priority>0.6400</priority>
 </url>
 <url>
    <loc>https://076923.github.io/posts/C-16/</loc>
-   <lastmod>2017-11-09T05:17:38+00:00</lastmod>
+   <lastmod>2017-11-16T04:31:17+00:00</lastmod>
    <changefreq>always</changefreq>
-   <priority>1.0</priority>
+   <priority>0.6400</priority>
 </url>
 <url>
    <loc>https://076923.github.io/posts/C-15/</loc>
-   <lastmod>2017-11-09T05:17:38+00:00</lastmod>
+   <lastmod>2017-11-16T04:31:17+00:00</lastmod>
    <changefreq>always</changefreq>
-   <priority>1.0</priority>
+   <priority>0.6400</priority>
 </url>
 <url>
    <loc>https://076923.github.io/posts/C-14/</loc>
-   <lastmod>2017-11-09T05:17:38+00:00</lastmod>
+   <lastmod>2017-11-16T04:31:17+00:00</lastmod>
    <changefreq>always</changefreq>
-   <priority>1.0</priority>
+   <priority>0.6400</priority>
 </url>
 <url>
    <loc>https://076923.github.io/posts/C-13/</loc>
-   <lastmod>2017-11-09T05:17:38+00:00</lastmod>
+   <lastmod>2017-11-16T04:31:17+00:00</lastmod>
    <changefreq>always</changefreq>
-   <priority>1.0</priority>
+   <priority>0.6400</priority>
 </url>
 <url>
    <loc>https://076923.github.io/posts/C-12/</loc>
-   <lastmod>2017-11-09T05:17:38+00:00</lastmod>
+   <lastmod>2017-11-16T04:31:17+00:00</lastmod>
    <changefreq>always</changefreq>
-   <priority>1.0</priority>
+   <priority>0.6400</priority>
 </url>
 <url>
    <loc>https://076923.github.io/posts/C-11/</loc>
-   <lastmod>2017-11-09T05:17:38+00:00</lastmod>
+   <lastmod>2017-11-16T04:31:17+00:00</lastmod>
    <changefreq>always</changefreq>
-   <priority>1.0</priority>
+   <priority>0.6400</priority>
 </url>
 <url>
    <loc>https://076923.github.io/posts/C-10/</loc>
-   <lastmod>2017-11-09T05:17:38+00:00</lastmod>
+   <lastmod>2017-11-16T04:31:17+00:00</lastmod>
    <changefreq>always</changefreq>
-   <priority>1.0</priority>
+   <priority>0.6400</priority>
 </url>
 <url>
    <loc>https://076923.github.io/posts/C-9/</loc>
-   <lastmod>2017-11-09T05:17:38+00:00</lastmod>
+   <lastmod>2017-11-16T04:31:17+00:00</lastmod>
    <changefreq>always</changefreq>
-   <priority>1.0</priority>
+   <priority>0.6400</priority>
 </url>
 <url>
    <loc>https://076923.github.io/posts/C-8/</loc>
-   <lastmod>2017-11-09T05:17:38+00:00</lastmod>
+   <lastmod>2017-11-16T04:31:17+00:00</lastmod>
    <changefreq>always</changefreq>
-   <priority>1.0</priority>
+   <priority>0.6400</priority>
 </url>
 <url>
    <loc>https://076923.github.io/posts/C-7/</loc>
-   <lastmod>2017-11-09T05:17:38+00:00</lastmod>
+   <lastmod>2017-11-16T04:31:17+00:00</lastmod>
    <changefreq>always</changefreq>
-   <priority>1.0</priority>
+   <priority>0.6400</priority>
 </url>
 <url>
    <loc>https://076923.github.io/posts/C-6/</loc>
-   <lastmod>2017-11-09T05:17:38+00:00</lastmod>
+   <lastmod>2017-11-16T04:31:17+00:00</lastmod>
    <changefreq>always</changefreq>
-   <priority>1.0</priority>
+   <priority>0.6400</priority>
 </url>
 <url>
    <loc>https://076923.github.io/posts/C-5/</loc>
-   <lastmod>2017-11-09T05:17:38+00:00</lastmod>
+   <lastmod>2017-11-16T04:31:17+00:00</lastmod>
    <changefreq>always</changefreq>
-   <priority>1.0</priority>
+   <priority>0.6400</priority>
 </url>
 <url>
    <loc>https://076923.github.io/posts/C-4/</loc>
-   <lastmod>2017-11-09T05:17:38+00:00</lastmod>
+   <lastmod>2017-11-16T04:31:17+00:00</lastmod>
    <changefreq>always</changefreq>
-   <priority>1.0</priority>
+   <priority>0.6400</priority>
 </url>
 <url>
    <loc>https://076923.github.io/posts/C-3/</loc>
-   <lastmod>2017-11-09T05:17:38+00:00</lastmod>
+   <lastmod>2017-11-16T04:31:17+00:00</lastmod>
    <changefreq>always</changefreq>
-   <priority>1.0</priority>
+   <priority>0.6400</priority>
 </url>
 <url>
    <loc>https://076923.github.io/posts/C-2/</loc>
-   <lastmod>2017-11-09T05:17:38+00:00</lastmod>
+   <lastmod>2017-11-16T04:31:17+00:00</lastmod>
    <changefreq>always</changefreq>
-   <priority>1.0</priority>
+   <priority>0.6400</priority>
 </url>
 <url>
    <loc>https://076923.github.io/posts/C-1/</loc>
-   <lastmod>2017-11-09T05:17:38+00:00</lastmod>
+   <lastmod>2017-11-16T04:31:17+00:00</lastmod>
    <changefreq>always</changefreq>
-   <priority>1.0</priority>
+   <priority>0.6400</priority>
+</url>
+<url>
+   <loc>https://076923.github.io/posts/C-opencv-19/</loc>
+   <lastmod>2017-11-16T04:31:17+00:00</lastmod>
+   <changefreq>always</changefreq>
+   <priority>0.6400</priority>
+</url>
+<url>
+   <loc>https://076923.github.io/posts/C-opencv-18/</loc>
+   <lastmod>2017-11-16T04:31:17+00:00</lastmod>
+   <changefreq>always</changefreq>
+   <priority>0.6400</priority>
+</url>
+<url>
+   <loc>https://076923.github.io/posts/C-opencv-17/</loc>
+   <lastmod>2017-11-16T04:31:17+00:00</lastmod>
+   <changefreq>always</changefreq>
+   <priority>0.6400</priority>
 </url>
 <url>
    <loc>https://076923.github.io/posts/C-opencv-16/</loc>
-   <lastmod>2017-11-09T05:17:38+00:00</lastmod>
+   <lastmod>2017-11-16T04:31:17+00:00</lastmod>
    <changefreq>always</changefreq>
-   <priority>1.0</priority>
+   <priority>0.6400</priority>
 </url>
 <url>
    <loc>https://076923.github.io/posts/C-opencv-15/</loc>
-   <lastmod>2017-11-09T05:17:38+00:00</lastmod>
+   <lastmod>2017-11-16T04:31:17+00:00</lastmod>
    <changefreq>always</changefreq>
-   <priority>1.0</priority>
+   <priority>0.6400</priority>
 </url>
 <url>
    <loc>https://076923.github.io/posts/C-opencv-14/</loc>
-   <lastmod>2017-11-09T05:17:38+00:00</lastmod>
+   <lastmod>2017-11-16T04:31:17+00:00</lastmod>
    <changefreq>always</changefreq>
-   <priority>1.0</priority>
+   <priority>0.6400</priority>
 </url>
 <url>
    <loc>https://076923.github.io/posts/C-opencv-13/</loc>
-   <lastmod>2017-11-09T05:17:38+00:00</lastmod>
+   <lastmod>2017-11-16T04:31:17+00:00</lastmod>
    <changefreq>always</changefreq>
-   <priority>1.0</priority>
+   <priority>0.6400</priority>
 </url>
 <url>
    <loc>https://076923.github.io/posts/C-opencv-12/</loc>
-   <lastmod>2017-11-09T05:17:38+00:00</lastmod>
+   <lastmod>2017-11-16T04:31:17+00:00</lastmod>
    <changefreq>always</changefreq>
-   <priority>1.0</priority>
+   <priority>0.6400</priority>
 </url>
 <url>
    <loc>https://076923.github.io/posts/C-opencv-11/</loc>
-   <lastmod>2017-11-09T05:17:38+00:00</lastmod>
+   <lastmod>2017-11-16T04:31:17+00:00</lastmod>
    <changefreq>always</changefreq>
-   <priority>1.0</priority>
+   <priority>0.6400</priority>
 </url>
 <url>
    <loc>https://076923.github.io/posts/C-opencv-10/</loc>
-   <lastmod>2017-11-09T05:17:38+00:00</lastmod>
+   <lastmod>2017-11-16T04:31:17+00:00</lastmod>
    <changefreq>always</changefreq>
-   <priority>1.0</priority>
+   <priority>0.6400</priority>
 </url>
 <url>
    <loc>https://076923.github.io/posts/C-opencv-9/</loc>
-   <lastmod>2017-11-09T05:17:38+00:00</lastmod>
+   <lastmod>2017-11-16T04:31:17+00:00</lastmod>
    <changefreq>always</changefreq>
-   <priority>1.0</priority>
+   <priority>0.6400</priority>
 </url>
 <url>
    <loc>https://076923.github.io/posts/C-opencv-8/</loc>
-   <lastmod>2017-11-09T05:17:38+00:00</lastmod>
+   <lastmod>2017-11-16T04:31:17+00:00</lastmod>
    <changefreq>always</changefreq>
-   <priority>1.0</priority>
+   <priority>0.6400</priority>
 </url>
 <url>
    <loc>https://076923.github.io/posts/C-opencv-7/</loc>
-   <lastmod>2017-11-09T05:17:38+00:00</lastmod>
+   <lastmod>2017-11-16T04:31:17+00:00</lastmod>
    <changefreq>always</changefreq>
-   <priority>1.0</priority>
+   <priority>0.6400</priority>
 </url>
 <url>
    <loc>https://076923.github.io/posts/C-opencv-6/</loc>
-   <lastmod>2017-11-09T05:17:38+00:00</lastmod>
+   <lastmod>2017-11-16T04:31:17+00:00</lastmod>
    <changefreq>always</changefreq>
-   <priority>1.0</priority>
+   <priority>0.6400</priority>
 </url>
 <url>
    <loc>https://076923.github.io/posts/C-opencv-5/</loc>
-   <lastmod>2017-11-09T05:17:38+00:00</lastmod>
+   <lastmod>2017-11-16T04:31:17+00:00</lastmod>
    <changefreq>always</changefreq>
-   <priority>1.0</priority>
+   <priority>0.6400</priority>
 </url>
 <url>
    <loc>https://076923.github.io/posts/C-opencv-4/</loc>
-   <lastmod>2017-11-09T05:17:38+00:00</lastmod>
+   <lastmod>2017-11-16T04:31:17+00:00</lastmod>
    <changefreq>always</changefreq>
-   <priority>1.0</priority>
+   <priority>0.6400</priority>
 </url>
 <url>
    <loc>https://076923.github.io/posts/C-opencv-3/</loc>
-   <lastmod>2017-11-09T05:17:38+00:00</lastmod>
+   <lastmod>2017-11-16T04:31:17+00:00</lastmod>
    <changefreq>always</changefreq>
-   <priority>1.0</priority>
+   <priority>0.6400</priority>
 </url>
 <url>
    <loc>https://076923.github.io/posts/C-opencv-2/</loc>
-   <lastmod>2017-11-09T05:17:38+00:00</lastmod>
+   <lastmod>2017-11-16T04:31:17+00:00</lastmod>
    <changefreq>always</changefreq>
-   <priority>1.0</priority>
+   <priority>0.6400</priority>
 </url>
 <url>
    <loc>https://076923.github.io/posts/C-opencv-1/</loc>
-   <lastmod>2017-11-09T05:17:38+00:00</lastmod>
+   <lastmod>2017-11-16T04:31:17+00:00</lastmod>
    <changefreq>always</changefreq>
-   <priority>1.0</priority>
+   <priority>0.6400</priority>
 </url>
 <url>
    <loc>https://076923.github.io/exercise/C-inputbox/</loc>
-   <lastmod>2017-11-09T05:17:38+00:00</lastmod>
+   <lastmod>2017-11-16T04:31:17+00:00</lastmod>
    <changefreq>always</changefreq>
-   <priority>1.0</priority>
+   <priority>0.6400</priority>
 </url>
 </urlset>
