@@ -8,7 +8,9 @@ summary: "Exercise program."
 active: Exercise
 date: 9/12/2017 3:37:34 PM 
 ---
-
+<center>
+    {% include boxad-3.html %}
+</center>
 {% for tag in site.tags %}
   {% assign t = tag | first %}
   {% assign posts = tag | last %}
@@ -43,3 +45,6 @@ date: 9/12/2017 3:37:34 PM
 
 {% endfor %}
 
+<center>
+    {% include boxad-4.html %}
+</center>
