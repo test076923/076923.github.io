@@ -23,6 +23,7 @@ layout: default
 
     
   <center>
+  {% include boxad-1.html %} 　　　   {% include boxad-2.html %}
   {% include ad-1.html %}
   </center>
   
@@ -31,6 +32,10 @@ layout: default
     
     {{ content }}
 
+    <center>
+    {% include boxad-3.html %} 　　　   {% include boxad-4.html %}
+    </center>
+    
     <div class="post-links">
       {% if page.next.url %}
         <a class="link-to-post" href="{{ page.next.url }}">
@@ -53,6 +58,5 @@ layout: default
 <center>
 {% include ad-2.html %}
 {% include disqus.html %}
-{% include boxad-1.html %} 　　　   {% include boxad-2.html %}
 {% include ad-3.html %}
 </center>
