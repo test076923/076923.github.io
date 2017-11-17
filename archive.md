@@ -10,6 +10,7 @@ active: Category
 
 <center>
     {% include boxad-3.html %}
+    <br>
 </center>
 
 {% for tag in site.tags %}
@@ -46,6 +47,7 @@ active: Category
 {% endfor %}
 
 <center>
+    <br>
     {% include boxad-4.html %}
 </center>
 
