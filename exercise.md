@@ -10,6 +10,7 @@ date: 9/12/2017 3:37:34 PM
 ---
 <center>
     {% include boxad-3.html %}
+    <br>
 </center>
 {% for tag in site.tags %}
   {% assign t = tag | first %}
@@ -46,5 +47,6 @@ date: 9/12/2017 3:37:34 PM
 {% endfor %}
 
 <center>
+    <br>
     {% include boxad-4.html %}
 </center>
