@@ -7,6 +7,9 @@ crawlertitle: "076923 : Category"
 summary: "Posts about Category"
 active: Category
 ---
+<center>
+    {% include boxad-3.html %}
+</center>
 {% for tag in site.tags %}
   {% assign t = tag | first %}
   {% assign posts = tag | last %}
@@ -39,3 +42,6 @@ active: Category
     {% endfor %}
   </ul>
 {% endfor %}
+<center>
+    {% include boxad-4.html %}
+</center>
