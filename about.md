@@ -17,6 +17,3 @@ date: 7/20/2017 3:37:34 PM
 많은 도움이 되기를 바랍니다.
 
 e-mail : 076923@naver.com
-
-
-{% include counter.html %}
