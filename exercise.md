@@ -1,5 +1,5 @@
 ---
-bg: "star.gif"
+bg: "note.jpg"
 layout: page
 title: "Exercise"
 crawlertitle: "076923 : Exercise"
