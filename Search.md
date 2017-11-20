@@ -16,7 +16,6 @@ date: 11/20/2017 3:37:34 PM
     <br>
 </center>
 
-<!? Html Elements for Search -->
 <div id="search-container">
 <center>
 <input type="text" id="search-input" placeholder="Search..." style="width:600px;">
