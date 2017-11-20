@@ -9,7 +9,7 @@ active: Search
 date: 11/20/2017 3:37:34 PM 
 ---
 
-## 검색 ##
+<h1> 검색 </h1>
 
 <center>
     {% include boxad-3.html %}
