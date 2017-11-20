@@ -16,7 +16,7 @@ favicon: 'favicon.ico'
 
 email: 076923@naver.com
 description: > # this means to ignore newlines until "baseurl:"
- C#, python, arduino, opencv, CAD 등을 다루며 연구, 개발 등에 필요한 정보를 공유하고 나누기 위한 목적입니다.
+ C#, python, arduino, opencv, CAD 등을 다루며 연구, 개발 등에 필요한 정보를 공유하고 나누기 위한 목적입니다. _%^!_
 baseurl: "" # the subpath of your site, e.g. /blog
 lang: "en"
 url: "https://076923.github.io/"
